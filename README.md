@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhavani Vedhagiri</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Front-End Developer</h3>
+
+- 🔭 I’m currently working on **React based project**
+
+- 🌱 I’m currently learning **Advanced React Native**
 
 - 📫 How to reach me **bhavanivedhagiri43@gmail.com**
 
@@ -14,4 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavani-vedhagiri&show_icons=true&locale=en&layout=compact" alt="bhavani-vedhagiri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavani-vedhagiri&show_icons=true&locale=en" alt="bhavani-vedhagiri" /></p>
-
